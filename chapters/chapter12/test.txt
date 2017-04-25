@@ -1,0 +1,6 @@
+---
+Christopher Alexander: 1936-10-04 00:00:00.000000000 +13:00
+Christopher Lambert: 1957-03-29 00:00:00.000000000 +13:00
+Christopher Lee: 1922-05-27 00:00:00.000000000 +12:00
+
+# Ignore this file
