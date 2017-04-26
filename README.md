@@ -6,6 +6,7 @@ This README is intended for users at Launch School who may assess my work.
 
 ### Notes and Updates
 
+- April 26, 2017, later: Nearly finished Chapter 14.
 - April 26, 2017, later: Finished Chapter 13.
 - April 26, 2017: Finished Chapter 12.
 - April 17, 2017: Continuing through Chapter 12.
