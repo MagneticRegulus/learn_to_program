@@ -13,9 +13,9 @@ end
 
 # Not a perfect shuffle...not too sure how to make it better!
 
-puts 'Welcome to the word sorter.'
+puts 'Welcome to the word shuffler.'
 puts 'I take one word per line (ONLY ONE) and save them for you.'
-puts 'When ready, hit enter, and I will sort your words in alphabetical order.'
+puts 'When ready, hit enter, and I will shuffled your words.'
 
 while true
   word = gets.chomp.downcase
@@ -29,7 +29,7 @@ end
 #####
 
 puts
-puts 'Your list of words:'
+puts 'Your list of shuffled words:'
 puts shuffler($words)
 puts
 puts 'If you think you are missing words, you did not pay attention to my instructions.'
